@@ -1,5 +1,2 @@
-# coderefactor1
-Marketing Website Accessibility Project
-
-README
-
+# code-refactor1
+Code Refactor - Accessibility Project
