@@ -4,7 +4,7 @@ This code refactor project was part of a homework assignment for the OSU Full St
 
 ## Installation
 
-Click on the [Link](https://)
+Click on the [Link](https://hrkoren.github.io/coderefactor1/) to view the final project. To view the 
 
 ## Usage
 
